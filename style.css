@@ -1,3 +1,35 @@
-main {
+body {
     text-align: center;
+    background-color: rgb(223, 223, 223);
+    font-size: 20px;
+}
+
+#survey-form {
+    background-color: rgb(158, 158, 158);
+    border-radius: 10px;
+    width: 700px;
+    transform: translate(50%, 0);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#name {
+    width: 200px;
+    height: 20px;
+}
+
+#email {
+    width: 200px;
+    height: 20px;
+}
+
+#favMovie {
+    width: 200px;
+    height: 20px;
+}
+
+
+#submit {
+    width: 200px;
+    height: 100px;
 }
